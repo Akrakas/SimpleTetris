@@ -1,0 +1,3 @@
+# SimpleTetris
+Require Curses
+
